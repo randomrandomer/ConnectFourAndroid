@@ -32,7 +32,9 @@ public class MainActivity extends AppCompatActivity {
     private float counterCentre;
     private float initialY;
 
-
+    /*  Need to make another method, or two, to continue the game after either counter
+        has been selected. 
+     */
 
     public void LaunchGame(View view) {
 
